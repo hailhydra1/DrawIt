@@ -14,6 +14,7 @@ Messaging Option
 ![Screenshot (1333)](https://github.com/hailhydra1/DrawIt/assets/87016129/5996bc71-8754-43a4-84e4-233648b89e83)
 
 TO SETUP
+
 in root directory
 npm i
 peerjs --port 5001

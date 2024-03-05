@@ -1,4 +1,4 @@
-A real time collaborative drawing board
+A REAL TIME COLLABORATIVE DRAWING BOARD WITH CHAT <br>
 
 User Can create a new room or Join an Existing One
 ![Screenshot (1327)](https://github.com/hailhydra1/DrawIt/assets/87016129/8173a5e6-4c92-4097-9158-5b9dc8b585bc)

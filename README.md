@@ -15,14 +15,14 @@ Messaging Option
 
 TO SETUP
 
-in root directory
-npm i
-peerjs --port 5001
+in root directory <br>
+npm i <br>
+peerjs --port 5001 <br>
 
-cd backend
-npm run dev
+cd backend <br>
+npm run dev <br>
 
-cd frontend
-npm run dev
+cd frontend <br>
+npm run dev <br>
 
 HAPPY CODING!
